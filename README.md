@@ -1,2 +1,2 @@
 # csd-310
-Repository for my Python class. 
+Cece Geisler's repository for CSD325. 
